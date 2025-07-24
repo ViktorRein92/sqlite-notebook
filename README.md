@@ -46,13 +46,3 @@ Maschinenbaustudent mit Fokus auf KI & Software-Entwicklung
 GitHub: @ViktorRein92
 
 Dieses Projekt ist Teil meines Lernprozesses. Verbesserungsvorschläge, Pull Requests und Feedback sind willkommen! 🙌
-
-yaml
-Kopieren
-Bearbeiten
-
----
-
-Das ganze andere Drumherum (z. B. meine Erklärungen wie „1. Öffne Datei…“) ist **nur für dich**, **nicht für die Datei**.
-
-Wenn du willst, kann ich dir die `.md` auch direkt als Datei geben. Sag einfach Bescheid.
