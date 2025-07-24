@@ -1,0 +1,14 @@
+# 🐍 Virtuelle Umgebung
+.venv/
+
+# ⚙️ Python-Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# 🧪 Testdatenbank
+*.db
+
+# 🧠 Persönliche Einstellungen
+.vscode/
+.env

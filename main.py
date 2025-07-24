@@ -7,6 +7,12 @@
 
 def main():
     print("Hallo, sqlite-notebook läuft! 🚀")
+
+    print("test test test")
+    # Hier könnte der Hauptcode des Programms stehen
+    # Zum Beispiel: Datenbankverbindung herstellen, Benutzeroberfläche starten, etc.
+    # Weitere Funktionen und Klassen können hier definiert werden
+    # ...
     pass
 
 if __name__ == "__main__":
