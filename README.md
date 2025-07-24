@@ -11,38 +11,36 @@ Dieses Projekt dient dazu, die Grundlagen der Softwareentwicklung mit folgenden 
 - 🐍 Erweiterbar mit Tests, Copilot und automatisierter Analyse
 
 ## 🏗️ Projektstruktur
+```
 sqlite-notebook/
-├── main.py # Hauptskript (Startpunkt)
-├── .gitignore # Ignoriert virtuelle Umgebung, Cache & DB
-├── README.md # Diese Projektbeschreibung
-└── .venv/ # Lokale virtuelle Umgebung (nicht im Repo)
-
-perl
-Kopieren
-Bearbeiten
+├── main.py          # Hauptskript (Startpunkt)
+├── .gitignore       # Ignoriert virtuelle Umgebung, Cache & DB
+├── README.md        # Diese Projektbeschreibung
+└── .venv/           # Lokale virtuelle Umgebung (nicht im Repo)
+```
 
 ## 🚀 Ausführen
 ```bash
 python main.py
-🔧 Funktionen (Stand: v0.1)
-🆕 Notiz erstellen (in Entwicklung)
+```
 
-📋 Notiz anzeigen (geplant)
+## 🔧 Funktionen (Stand: v0.1)
+- 🆕 Notiz erstellen (in Entwicklung)
+- 📋 Notiz anzeigen (geplant)
+- 🗑 Notiz löschen (geplant)
 
-🗑 Notiz löschen (geplant)
+## 📈 Nächste Schritte
+- [ ] SQL-Datenbank integrieren  
+- [ ] CLI oder Menüsystem erstellen  
+- [ ] Tests mit `pytest` hinzufügen  
+- [ ] Erweiterung durch GitHub Copilot  
 
-📈 Nächste Schritte
- SQL-Datenbank integrieren
+## 👨‍🔧 Entwickler
 
- CLI oder Menüsystem erstellen
+**Viktor Rein**  
+Maschinenbaustudent mit Fokus auf KI & Software-Entwicklung  
+GitHub: [@ViktorRein92](https://github.com/ViktorRein92)
 
- Tests mit pytest hinzufügen
+---
 
- Erweiterung durch GitHub Copilot
-
-👨‍🔧 Entwickler
-Viktor Rein
-Maschinenbaustudent mit Fokus auf KI & Software-Entwicklung
-GitHub: @ViktorRein92
-
-Dieses Projekt ist Teil meines Lernprozesses. Verbesserungsvorschläge, Pull Requests und Feedback sind willkommen! 🙌
+> Dieses Projekt ist Teil meines Lernprozesses. Verbesserungsvorschläge, Pull Requests und Feedback sind willkommen! 🙌
